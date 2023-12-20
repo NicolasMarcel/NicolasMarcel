@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5BCA9F18-A29D-49A1-9742-58893AC2408D}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bowishdef/Platforms/iOS/Info.plist">
+    <Files>
+      <File FileName="Bowishdef/MainPage.xaml.cs" />
+      <File FileName="Bowishdef/MainPage.xaml" />
+      <File FileName="Bowishdef/MauiProgram.cs" />
+      <File FileName="Bowishdef/Platforms/Android/MainApplication.cs" />
+      <File FileName="Bowishdef/Platforms/iOS/AppDelegate.cs" />
+      <File FileName="Bowishdef/Platforms/iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bowishdef" expanded="True">
+            <Node name="Bowishdef">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True">
+                  <Node name="Info.plist" selected="True" />
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bowishdef PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
